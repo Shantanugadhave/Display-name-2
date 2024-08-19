@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
     // Write C++ code here
-    cout << "my mame is abhijeet";
+    cout << "i abhijeet";
 
     return 0;
 }
